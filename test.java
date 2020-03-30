@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-// ska slå github
+// 22ska slå github
 public class test {
 
 	static String input;
